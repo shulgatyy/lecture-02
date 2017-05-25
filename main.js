@@ -62,7 +62,7 @@ function fight(fighter, improvedFighter, ...points) {
 const fighter = new Fighter;
 const improvedFighter = new ImprovedFighter;
 
-// improvedFighter says: Why am I second?. Is it because I'm black?
+// improvedFighter says: Why am I second? Is it because I'm black?
 console.log(fight(fighter, improvedFighter, 22, 24, 6));
 console.log(fight(fighter, improvedFighter, 15, 27, 18, 23, 13, 19));
 console.log(fight(fighter, improvedFighter, 13, 13));
