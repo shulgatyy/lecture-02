@@ -18,10 +18,12 @@ fight може приймати довільну кількість параме
 
 Ця функція запускатиме процес гри: гравці по черзі наносять удар один одному за допомогою методу hit, що приймає відповідне значення point. Якщо один із них помирає (health = 0), то гра закінчується і результат виводиться в консоль.
 
+---
+
 При виконанні домашнього завдання необхідно використати:
-	- block scoping (let)
-	- spread / rest operator
-	- default parameters
-	- string interpolation
-	- arrow functions
-	- classes + inheritance + super
+- block scoping (let)
+- spread / rest operator
+- default parameters
+- string interpolation
+- arrow functions
+- classes + inheritance + super
